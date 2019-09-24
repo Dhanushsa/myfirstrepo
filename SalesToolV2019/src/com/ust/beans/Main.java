@@ -14,6 +14,7 @@ public class Main {
 
 	private static void displayGreetings() {
 		// TODO Auto-generated method stub
+		System.out.println("test1");
 		
 	}
 
